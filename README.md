@@ -1,4 +1,4 @@
-# top-down-slasher
+# Top Down Slasher
 A top down swordfighting game where the faster you swing your sword using your mouse, the more damage you do
 
 -WORK IN PROGRESS-
